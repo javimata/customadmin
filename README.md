@@ -5,7 +5,8 @@
 [![Agregar un dashboard personalizado](http://img.youtube.com/vi/kFTo3cTBaNA/0.jpg)](http://www.youtube.com/watch?v=kFTo3cTBaNA "Agregar un dashboard personalizado")
 
 
-#[EN]
+# [EN]
+Add a custom dashboard
 
-
-#[ES]
+# [ES]
+Agrega un dashboard personalizado
